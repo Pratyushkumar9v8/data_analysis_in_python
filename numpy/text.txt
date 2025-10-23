@@ -1,0 +1,3 @@
+csv file is a comma separated values
+json file is a javascript object notation
+txt file is a plain text file
